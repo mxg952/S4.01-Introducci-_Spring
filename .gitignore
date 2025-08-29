@@ -1,0 +1,28 @@
+# JetBraens IDE (IntelliJ, PyCharm, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+.gradle/
+build/
+out/
+logs/
+
+# Otros entornos de desarrollo
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+bin/
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
