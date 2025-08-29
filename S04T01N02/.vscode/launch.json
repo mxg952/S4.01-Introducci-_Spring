@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-S04T01N02Application<S04T01N02>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cat.itacademy.s04.t01.n02.S04T01N02Application",
+            "projectName": "S04T01N02",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
